@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "MagicLeapEA",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ArcheryMagicLeap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
