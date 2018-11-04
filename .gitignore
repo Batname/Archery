@@ -78,3 +78,7 @@ DerivedDataCache/*
 
 # Ignore starter content
 Content/StarterContent/*
+
+# Ingnore Paragon parent assets
+Content/ParagonGreystone/*
+Content/ParagonSparrow/*
